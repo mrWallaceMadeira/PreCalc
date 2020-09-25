@@ -17,7 +17,7 @@ date | homework (due day of) | classwork
 ---- | --------------------- | ---------
 m 10/12 | :zzz:&nbsp; ***no class*** - indigenous people's day  | :zzz:&nbsp; ***no class*** - indigenous people's day
 t 10/13 |                       |
-w 10/14 |  | PSAT's for frosh/soph (***a-block only***)
+w 10/14 |  | PSAT's for frosh/soph - ***a-block only*** 
 r 10/15 |                       |
 f 10/16 |                       |
 
