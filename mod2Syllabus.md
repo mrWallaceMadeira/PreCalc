@@ -6,7 +6,7 @@
 ###### Week I
 date | videos (night before) | classwork
 ---- | --------------------- | ---------
-m 10/5 | [algebra bootcamp](https://web.microsoftstream.com/video/8d068a77-3b44-411c-b0e6-e3f1ece40d2c)| 
+m 10/5 | [algebra bootcamp](https://web.microsoftstream.com/video/8d068a77-3b44-411c-b0e6-e3f1ece40d2c)|[desmos: match my exponential](https://student.desmos.com/activitybuilder/student-greeting/5f722fbfb5228e26e0887ccb) and [desmos: match my parabola](https://student.desmos.com/activitybuilder/student-greeting/5f722fc6ef4ba929347b980e)
 t 10/6 | [fcp/permutations/combinations pt. I](https://web.microsoftstream.com/video/ae7489a1-7c02-48e2-9a96-60ae41a5749b) and [fcp/permutations/combinations pt. II](https://web.microsoftstream.com/video/8925169e-5e78-4c3d-9095-ae880ddbe3a6)|
 w 10/7 | [pascal's:small_red_triangle:&nbsp;& binomial thm](https://web.microsoftstream.com/video/6b1bedbd-b241-47d4-ae96-977c3cf8b75d)|
 r 10/8 |[special sequences pt. I day I](https://web.microsoftstream.com/video/d31a940b-01bb-4c27-97af-c1adf4870677) and [special sequences pt. II day I](https://web.microsoftstream.com/video/b0d54a35-903b-497c-b14a-2538232fa694)|
