@@ -4,7 +4,7 @@
 ### Daily Schedule&nbsp;:calendar:
 
 ###### Week I
-date | homework (due day of) | classwork
+date | videos (night before) | classwork
 ---- | --------------------- | ---------
 m 10/5 | [algebra bootcamp](https://web.microsoftstream.com/video/8d068a77-3b44-411c-b0e6-e3f1ece40d2c)| 
 t 10/6 | [fcp/permutations/combinations pt. I](https://web.microsoftstream.com/video/ae7489a1-7c02-48e2-9a96-60ae41a5749b) and [fcp/permutations/combinations pt. II](https://web.microsoftstream.com/video/8925169e-5e78-4c3d-9095-ae880ddbe3a6)|
@@ -13,7 +13,7 @@ r 10/8 |[special sequences pt. I day I](https://web.microsoftstream.com/video/d3
 f 10/9 | [special sequences pt. I day I](https://web.microsoftstream.com/video/3c60a8b7-7e73-4652-97d8-24a0ef171ec6) and [special sequences pt. I day II](https://web.microsoftstream.com/video/9dc6a453-45a7-48eb-9ba0-197b2d218e3b)|
 
 ###### Week II
-date | homework (due day of) | classwork
+date | videos (night before) | classwork
 ---- | --------------------- | ---------
 m 10/12 | :zzz:&nbsp; ***no class*** - indigenous people's day  | :zzz:&nbsp; ***no class*** - indigenous people's day
 t 10/13 |review|:tada:&nbsp;***knowledge celebration: sequences and series***
@@ -22,7 +22,7 @@ r 10/15 | exponential functions |
 f 10/16 | logarithmic functions |
 
 ###### Week III
-date | homework (due day of) | classwork
+date | videos (night before) | classwork
 ---- | --------------------- | ---------
 m 10/19 | properties of logarithms  | 
 t 10/20 | solving log / exponent equations |
@@ -31,7 +31,7 @@ r 10/22 | parent functions day I: linear/quadratic/radical |
 f 10/23 | parent functions day II: piecewise/abs. value
 
 ###### Week IV
-date | homework (due day of) | classwork
+date | videos (night before) | classwork
 ---- | --------------------- | ---------
 m 10/26 |                       | 
 t 10/27 |                       |
@@ -40,7 +40,7 @@ r 10/29 |                       |
 f 10/30 |                       |
 
 ###### Week V
-date | homework (due day of) | classwork
+date | videos (night before) | classwork
 ---- | --------------------- | ---------
 m 11/2 |                       | 
 t 11/3 | eom review |
