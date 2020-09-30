@@ -19,7 +19,7 @@ m 10/12 | :zzz:&nbsp; ***no class*** - indigenous people's day  | :zzz:&nbsp; **
 t 10/13 |review|:tada:&nbsp;***knowledge celebration: sequences and series***
 w 10/14 |n/a| PSAT's for frosh/soph - ***a-block only*** 
 r 10/15 | exponential functions | p. 189 #5-7, 21, 25, 65, 71 and ***domain/range only for*** #9, 11 44, 78 a b and d, 79 a and b 
-f 10/16 | logarithmic functions | p. 199 #9-12, 17-21, 33, 34, 36, 38, 40, 45, 47, 60, 61, 64, 65 & marble slide activity
+f 10/16 | logarithmic & inverse functions | p. 199 #9-12, 17-21, 33, 34, 36, 38, 40, 45, 47, 60, 61, 64, 65 
 
 ###### Week III
 date | videos (night before) | classwork
