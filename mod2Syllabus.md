@@ -19,24 +19,24 @@ m 10/12 | :zzz:&nbsp; ***no class*** - indigenous people's day  | :zzz:&nbsp; **
 t 10/13 |review|:tada:&nbsp;***knowledge celebration: sequences and series***
 w 10/14 |n/a| PSAT's / special programming
 r 10/15 | exponential functions | p. 189 #5-7, 21, 25, 65, 71 and ***domain/range only for*** #9, 11 44, 78 a b and d, 79 a and b 
-f 10/16 | logarithmic & inverse functions | p. 199 #9-12, 17-21, 33, 34, 36, 38, 40, 45, 47, 60, 61, 64, 65 
+f 10/16 | logarithmic & inverse functions | review 7-8 on p. 8, 9 notes and p. 199 #9-12, 17-21, 33, 34, 36, 38, 40, 45, 47, 60, 61, 64, 65 
 
 ###### Week III
 date | videos (night before) | classwork
 ---- | --------------------- | ---------
 m 10/19 | properties of logarithms  | 
-t 10/20 | solving log / exponent equations |
-w 10/21 | review |:tada:&nbsp;***knowledge celebration: 3.1-3.4***
-r 10/22 | parent functions day I: linear/quadratic/radical |
-f 10/23 | parent functions day II: piecewise/abs. value
+t 10/20 | solving log / exponent equations & modelling |
+w 10/21 | more [log](https://www.youtube.com/watch?v=OSBCU7-iBX4)|
+r 10/22 | review |:tada:&nbsp;***knowledge celebration: 3.1-3.4***
+f 10/23 | n/a | review knowledge celebration
 
 ###### Week IV
 date | videos (night before) | classwork
 ---- | --------------------- | ---------
-m 10/26 |                       | 
-t 10/27 |                       |
-w 10/28 |                       |
-r 10/29 |                       |
+m 10/26 | parent functions day I: linear/quadratic/radical | p. 11 # 7, 11, 19, 23, 27, 31, 35, 39, 50, 67, 68, 73, 74 and p. 28 # 89, 90 and p. 48 # 51, 53 and p. 96 # 5-8, 37-39 and 32
+t 10/27 | parent functions day II: piecewise/abs. value |  
+w 10/28 | general function properties |
+r 10/29 | desmos                      |
 f 10/30 |                       |
 
 ###### Week V
