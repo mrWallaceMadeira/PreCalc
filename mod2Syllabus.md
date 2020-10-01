@@ -34,10 +34,10 @@ f 10/23 | n/a | review knowledge celebration
 date | videos (night before) | classwork
 ---- | --------------------- | ---------
 m 10/26 | parent functions day I: linear/quadratic/radical | p. 11 # 7, 11, 19, 23, 27, 31, 35, 39, 50, 67, 68, 73, 74 and p. 28 # 89, 90 and p. 48 # 51, 53 and p. 96 # 5-8, 37-39 and 32
-t 10/27 | parent functions day II: piecewise/abs. value |  
-w 10/28 | general function properties |
-r 10/29 | desmos                      |
-f 10/30 |                       |
+t 10/27 | parent functions day II: piecewise/abs. value | p. 37 #17, 18, 47, 49, 55, 57, 59, 99-104
+w 10/28 | general function properties | p. 38 #23, 24, 26, 34, 38, 40 and  p. 47 #7, 14, 16, 19-23, 26, 73, 75
+r 10/29 | n/a | desmos art project
+f 10/30 |desmos art project| desmos art project
 
 ###### Week V
 date | videos (night before) | classwork
