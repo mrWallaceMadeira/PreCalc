@@ -16,7 +16,7 @@ f 10/9 | arithmetic and geometric sequences pt. II | p. 577 #11, 15, 39, 41, 42 
 date | videos (night before) | classwork
 ---- | --------------------- | ---------
 m 10/12 | :zzz:&nbsp; ***no class*** - indigenous people's day  | :zzz:&nbsp; ***no class*** - indigenous people's day
-t 10/13 |review|:tada:&nbsp;***knowledge celebration: sequences and series***
+t 10/13 |n/a|:tada:&nbsp;***knowledge celebration: sequences and series***
 w 10/14 |n/a| PSAT's / special programming
 r 10/15 | exponential functions | p. 189 #5-7, 21, 25, 65, 71 and ***domain/range only for*** #9, 11 44, 78 a b and d, 79 a and b 
 f 10/16 | logarithmic & inverse functions | review 7-8 on p. 8, 9 notes and p. 199 #9-12, 17-21, 33, 34, 36, 38, 40, 45, 47, 60, 61, 64, 65 
@@ -27,7 +27,7 @@ date | videos (night before) | classwork
 m 10/19 | properties of logarithms  | 
 t 10/20 | solving log / exponent equations & modelling |
 w 10/21 | more [log](https://www.youtube.com/watch?v=OSBCU7-iBX4)|
-r 10/22 | review |:tada:&nbsp;***knowledge celebration: 3.1-3.4***
+r 10/22 | n/a |:tada:&nbsp;***knowledge celebration: 3.1-3.4***
 f 10/23 | n/a | review knowledge celebration
 
 ###### Week IV
@@ -37,7 +37,7 @@ m 10/26 | parent functions day I: linear/quadratic/radical | p. 11 # 7, 11, 19, 
 t 10/27 | parent functions day II: piecewise/abs. value | p. 37 #17, 18, 47, 49, 55, 57, 59, 99-104
 w 10/28 | general function properties | p. 38 #23, 24, 26, 34, 38, 40 and  p. 47 #7, 14, 16, 19-23, 26, 73, 75
 r 10/29 | n/a | desmos art project
-f 10/30 |desmos art project| desmos art project
+f 10/30 | n/a | desmos art project
 
 ###### Week V
 date | videos (night before) | classwork
