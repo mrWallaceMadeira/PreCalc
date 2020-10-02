@@ -6,7 +6,7 @@
 ###### Week I
 date | videos & problems (night before) | classwork
 ---- | --------------------- | ---------
-m 10/5 |algebra bootcamp|factoring practice worksheet
+m 10/5 |n/a|algebra bootcamp
 t 10/6 | counting principles | counting principles worksheet
 w 10/7 | pascal's:small_red_triangle:&nbsp;& binomial theorem| p. 613 #13, 15, 17, 20, 23, 27, 43, 64, 65, 85
 r 10/8 |arithmetic and geometric sequences|p. 604 #25, 35, 41, 55, 57, 63, 65, 69, 75, 76, 79, 80
