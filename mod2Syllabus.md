@@ -49,6 +49,6 @@ f 11/6 | eom review | :tada:&nbsp;***cumulative knowledge celebration***
 
 ### Resources&nbsp;:hammer:
 
-### Desmos
- - [x] Link [here](student.desmos.com
+###### Desmos
+ - [x] Link [here](student.desmos.com)
  - [x] Class code: 26r3nm
