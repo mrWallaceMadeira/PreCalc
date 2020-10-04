@@ -77,7 +77,8 @@ A: [This](https://static01.nyt.com/images/2018/04/20/sports/20armstrong-promo/me
 
 ###### Grading
 - You'll be graded on the standard Madeira letter grade scale
-- You'll be graded on the following assignments & assessments
+
+You'll be graded on the following assignments & assessments
 
 item | points
 ---- | ------
