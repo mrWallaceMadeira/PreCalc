@@ -73,4 +73,22 @@ A: No.\
 Q: I don't know what cheating is though!\
 A: [This](https://static01.nyt.com/images/2018/04/20/sports/20armstrong-promo/merlin_11277122_a72a3be1-0163-44fa-8895-e549bea3b953-superJumbo.jpg?quality=90&auto=webp)
 
-**Long answer**: Don't copy your classmates answers, don't ask your classmates for answers & _definitely_ don't Google answers for a quiz or celebration of knowledge
+**Long answer**: Don't copy your classmates answers, don't ask your classmates for answers & _definitely_ don't Google answers for a quiz or celebration of knowledge.
+
+###### Grading
+- You'll be graded on the standard Madeira letter grade scale
+- You'll be graded on the following assignments & assessments
+
+item | points
+---- | ------
+classwork: week 1 | 5
+knowledge celebration 1 (tr. test) | 50
+classwork: week 2 | 2
+petit knowledge celebration 1 (tr. quiz) | 25
+knowledge celebration 2 | 50
+classwork: week 3 | 5
+petit knowledge celebration 2 | 25
+classwork: week 4 | 4
+classwork: week 5 | 4
+le gran knowledge celebration | 100
+total | 270
