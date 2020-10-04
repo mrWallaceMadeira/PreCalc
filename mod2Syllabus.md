@@ -1,5 +1,9 @@
 ## Pre-Calculus Part I: Mod II Syllabus
 
+### How do I precalc?
+Pre-calc is nothing new. If you've had algebra 2 then you're ready for this course. Think of this like algebra bootcamp.
+In order to be a calculus wizard/witch you need to have a rock solid algebra foundation.
+Get ready for a 5-week algebra workout. :flex:
 
 ### Daily Schedule&nbsp;:calendar:
 
