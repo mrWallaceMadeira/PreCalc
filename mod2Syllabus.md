@@ -25,10 +25,10 @@ f 10/16 |review|:tada:&nbsp;***knowledge celebration: sequences and series***
 date | class prep | in class
 ---- | --------------------- | ---------
 m 10/19 | exponential functions | desmos: polygraph exponentials & desmos: match my exponential
-t 10/20 | logarithmic & inverse functions | review 7-8 on p. 8, 9 notes and p. 199 #9-12, 17-21, 33, 34, 36, 38, 40, 45, 47, 60, 61, 64, 65 
+t 10/20 | logarithmic & inverse functions | review 7-8 on p. 8, 9 notes and desmos: polygraph exponential & logarithmic functions
 w 10/21 | properties of logarithms  |desmos: mocha modelling 
 r 10/22 | solving log / exponent equations & modelling | desmos: game, set, flat
-f 10/23 | more [log](https://www.youtube.com/watch?v=OSBCU7-iBX4)|
+f 10/23 | review | review & challenge problems
 
 ###### Week IV
 date | class prep | in class
