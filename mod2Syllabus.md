@@ -7,8 +7,8 @@ In order to be a calculus wizard/witch, you need to have a solid algebra foundat
 Time to build some algebra muscles&nbsp;:muscle:
 
 ### Administrative stuff
-- [x] Office hours daily 8-9AM & 12-1PM EST
-- [x] I will respond to Teams chat & email between 7:30AM - 5PM weekdays
+- [x] Office hours daily _8-9AM & 12-1PM EST_
+- [x] I will respond to Teams chat & email _between 7:30AM - 5PM weekdays_
 - [x] All class materials are found in the `Files` tab of our General channel
   - Folders are organized by week and day (i.e. Week1 > October 5)
 
@@ -64,3 +64,11 @@ f 11/6 | eom review | :tada:&nbsp;***cumulative knowledge celebration***
 ###### Desmos
  - [x] Link [here](student.desmos.com)
  - [x] Class code: 26r3nm
+
+### Un-fun stuff
+
+###### Cheating: a Q & A
+Q: Mr. Wallace, can I cheat?
+A: No.
+Q: I don't know what cheating is though
+A: [This](https://static01.nyt.com/images/2018/04/20/sports/20armstrong-promo/merlin_11277122_a72a3be1-0163-44fa-8895-e549bea3b953-superJumbo.jpg?quality=90&auto=webp)
