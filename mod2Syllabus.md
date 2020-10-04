@@ -6,6 +6,13 @@ If you've had algebra 2 then you're ready for this course. \
 In order to be a calculus wizard/witch, you need to have a solid algebra foundation.\
 Time to build some algebra muscles&nbsp;:muscle:
 
+### Administrative stuff
+- [x] Office hours daily 8-9AM & 12-1PM EST
+- [x] I will respond to Teams chat & email between 7:30AM - 5PM weekdays
+- [x] All class materials are found in the `Files` tab of our General channel
+  - Folders are organized by week and day (i.e. Week1 > October 5)
+
+
 ### Daily Schedule&nbsp;:calendar:
 
 ###### Week I
