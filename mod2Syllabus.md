@@ -7,13 +7,13 @@
 date | videos & problems (night before) | classwork
 ---- | --------------------- | ---------
 m 10/5 |n/a|algebra bootcamp
-t 10/6 | counting principles | counting principles worksheet
-w 10/7 | pascal's:small_red_triangle:&nbsp;& binomial theorem| p. 613 #13, 15, 17, 20, 23, 27, 43, 64, 65, 85
-r 10/8 |arithmetic and geometric sequences|p. 604 #25, 35, 41, 55, 57, 63, 65, 69, 75, 76, 79, 80
-f 10/9 | arithmetic and geometric sequences pt. II | p. 577 #11, 15, 39, 41, 42 and p. 586 #6, 7, 11, 13, 22, 24, 57, 60  and p. 595 #7, 11, 18, 20, 24, 39, 41, 43 
+t 10/6 | :tv:&nbsp;counting principles | ~ a (brief) proof ~ counting principles worksheet
+w 10/7 | :tv:&nbsp;pascal's:small_red_triangle:&nbsp;& binomial theorem| another (slightly longer) ~ proof ~ & p. 613 #13, 15, 17, 20, 23, 27, 43, 64, 65, 85
+r 10/8 |:tv:&nbsp;arithmetic and geometric sequences|p. 604 #25, 35, 41, 55, 57, 63, 65, 69, 75, 76, 79, 80
+f 10/9 | :tv:&nbsp;arithmetic and geometric sequences pt. II | p. 577 #11, 15, 39, 41, 42 and p. 586 #6, 7, 11, 13, 22, 24, 57, 60  and p. 595 #7, 11, 18, 20, 24, 39, 41, 43 
 
 ###### Week II
-date | videos (night before) | classwork
+date | night before | classwork
 ---- | --------------------- | ---------
 m 10/12 | :zzz:&nbsp; ***no class*** - indigenous people's day  | :zzz:&nbsp; ***no class*** - indigenous people's day
 t 10/13 |n/a|:tada:&nbsp;***knowledge celebration: sequences and series***
@@ -27,24 +27,23 @@ date | videos (night before) | classwork
 m 10/19 | properties of logarithms  | 
 t 10/20 | solving log / exponent equations & modelling |
 w 10/21 | more [log](https://www.youtube.com/watch?v=OSBCU7-iBX4)|
-r 10/22 | n/a |:tada:&nbsp;***knowledge celebration: 3.1-3.4***
-f 10/23 | n/a | review knowledge celebration
+r 10/22 | 
+f 10/23 | 
 
 ###### Week IV
 date | videos (night before) | classwork
 ---- | --------------------- | ---------
-m 10/26 | parent functions day I: linear/quadratic/radical | p. 11 # 7, 11, 19, 23, 27, 31, 35, 39, 50, 67, 68, 73, 74 and p. 28 # 89, 90 and p. 48 # 51, 53 and p. 96 # 5-8, 37-39 and 32
-t 10/27 | parent functions day II: piecewise/abs. value | p. 37 #17, 18, 47, 49, 55, 57, 59, 99-104
-w 10/28 | general function properties | p. 38 #23, 24, 26, 34, 38, 40 and  p. 47 #7, 14, 16, 19-23, 26, 73, 75
-r 10/29 | n/a | desmos art project
-f 10/30 | n/a | desmos art project
+m 10/26 | n/a |:tada:&nbsp;***knowledge celebration: 3.1-3.4***
+t 10/27 | n/a | review knowledge celebration
+w 10/28 | parent functions day I: linear/quadratic/radical | p. 11 # 7, 11, 19, 23, 27, 31, 35, 39, 50, 67, 68, 73, 74 and p. 28 # 89, 90 and p. 48 # 51, 53 and p. 96 # 5-8, 37-39 and 32
+r 10/29 | parent functions day II: piecewise/abs. value | p. 37 #17, 18, 47, 49, 55, 57, 59, 99-104
+f 10/30 | general function properties | p. 38 #23, 24, 26, 34, 38, 40 and  p. 47 #7, 14, 16, 19-23, 26, 73, 75
 
 ###### Week V
 date | videos (night before) | classwork
 ---- | --------------------- | ---------
-m 11/2 |                       | 
-t 11/3 | eom review |
-w 11/4 | eom review |
+m 11/2 | n/a |project
+w 11/4 |n/a |project
 r 11/5 | eom review |
 f 11/6 | eom review | :tada:&nbsp;***cumulative knowledge celebration***
 
