@@ -42,7 +42,7 @@ f 10/30 | general function properties | p. 38 #23, 24, 26, 34, 38, 40 and  p. 47
 ###### Week V
 date | class prep | in class
 ---- | --------------------- | ---------
-m 11/2 |:sleeping|desmos project
+m 11/2 |:sleeping:|desmos project
 w 11/4 |review |eom review
 r 11/5 | eom review |eom review
 f 11/6 | eom review | :tada:&nbsp;***cumulative knowledge celebration***
