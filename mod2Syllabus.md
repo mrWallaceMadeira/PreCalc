@@ -68,7 +68,9 @@ f 11/6 | eom review | :tada:&nbsp;***cumulative knowledge celebration***
 ### Un-fun stuff
 
 ###### Cheating: a Q & A
-Q: Mr. Wallace, can I cheat?
-A: No.
-Q: I don't know what cheating is though
-A: [This](https://static01.nyt.com/images/2018/04/20/sports/20armstrong-promo/merlin_11277122_a72a3be1-0163-44fa-8895-e549bea3b953-superJumbo.jpg?quality=90&auto=webp)
+Q: Mr. Wallace, can I cheat?\
+A: No.\
+Q: I don't know what cheating is though!\
+A: [This](https://static01.nyt.com/images/2018/04/20/sports/20armstrong-promo/merlin_11277122_a72a3be1-0163-44fa-8895-e549bea3b953-superJumbo.jpg?quality=90&auto=webp)\
+
+Long answer: Don't copy your classmates answers, don't ask your classmates for answers & _definitely_ don't Google answers for a quiz or celebration of knowledge
