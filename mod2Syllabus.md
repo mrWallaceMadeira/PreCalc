@@ -20,7 +20,7 @@ date | class prep | in class
 ---- | --------------------- | ---------
 m 10/5 | :sleeping:|algebra bootcamp
 t 10/6 | :tv:&nbsp;counting principles | ~ a (brief) proof ~ counting principles worksheet
-w 10/7 | :tv:&nbsp;pascal's:small_red_triangle:&nbsp;& binomial theorem| p. 604 # 5, 7, 23, 27, 35, 37, 55, 67, 71, 105-110, 113
+w 10/7 | :tv:&nbsp;pascal's:small_red_triangle:&nbsp;& binomial theorem| p. 604 # 5, 7, 23, 27, 35, 37, 55, 67, 71, 105, 113
 r 10/8 | :tv:&nbsp;arithmetic and geometric sequences|p. 604 #25, 35, 41, 55, 57, 63, 65, 69, 75, 76, 79, 80
 f 10/9 | review | review & challenge problems
 
