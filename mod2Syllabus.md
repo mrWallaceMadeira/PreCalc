@@ -28,24 +28,24 @@ f 10/9 | review | review problems
 date | class prep | in class
 ---- | --------------------- | ---------
 m 10/12 | :sleeping: | ***no class*** - indigenous people's day
-t 10/13 | grab bag: counting and sequences | p. 577 #11, 15, 39, 41, 42 and p. 586 #6, 7, 11, 13, 22, 24, 57, 60  and p. 595 #7, 11, 18, 20, 24, 39, 41, 43
+t 10/13 | grab bag: counting and sequences | review sheet I
 w 10/14 | :sleeping: | PSAT's / special programming
-r 10/15 | grab bag II: counting and sequences | review sheet 
-f 10/16 |review|:tada:&nbsp;***knowledge celebration: sequences and series***
+r 10/15 | grab bag II: counting and sequences | review sheet II
+f 10/16 |review|:tada:&nbsp;***knowledge celebration: week 1 content***
 
 ###### Week III
 date | class prep | in class
 ---- | --------------------- | ---------
 m 10/19 | exponential functions | desmos: polygraph exponentials & desmos: match my exponential
 t 10/20 | logarithmic & inverse functions | review 7-8 on p. 8, 9 notes and desmos: polygraph exponential & logarithmic functions
-w 10/21 | properties of logarithms  |desmos: mocha modelling 
+w 10/21 | properties of logarithms  |desmos: mocha modelling  & **un petit knowledge celebration (tr. quiz)**
 r 10/22 | solving log / exponent equations & modelling | desmos: game, set, flat
 f 10/23 | review | review & challenge problems
 
 ###### Week IV
 date | class prep | in class
 ---- | --------------------- | ---------
-m 10/26 | review |:tada:&nbsp;***knowledge celebration: 3.1-3.4***
+m 10/26 | review |:tada:&nbsp;***knowledge celebration: logs and exponents***
 t 10/27 | :sleeping: | review knowledge celebration
 w 10/28 | parent functions day I: linear/quadratic/radical | p. 11 # 7, 11, 19, 23, 27, 31, 35, 39, 50, 67, 68, 73, 74 and p. 28 # 89, 90 and p. 48 # 51, 53 and p. 96 # 5-8, 37-39 and 32
 r 10/29 | parent functions day II: piecewise/abs. value | p. 37 #17, 18, 47, 49, 55, 57, 59, 99-104
