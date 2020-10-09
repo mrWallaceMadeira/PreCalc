@@ -80,7 +80,7 @@ You'll be graded on the following assignments & assessments
 
 item | points
 ---- | ------
-classwork: week 1 | 5
+classwork: week 1 | 4
 knowledge celebration 1 (tr. test) | 50
 classwork: week 2 | 2
 petit knowledge celebration 1 (tr. quiz) | 25
