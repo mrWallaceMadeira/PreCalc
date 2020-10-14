@@ -36,10 +36,10 @@ f 10/16 |review|:tada:&nbsp;***knowledge celebration: week 1 content***
 ###### Week III
 date | class prep | in class
 ---- | --------------------- | ---------
-m 10/19 | exponential functions | mr. wallace talking about <img src="https://render.githubusercontent.com/render/math?math=e^x">ponents 
-t 10/20 | logarithmic & inverse functions | mr. wallace talking about :wood:
-w 10/21 | properties of logarithms  |desmos: mocha modelling  & **petit knowledge celebration 1(tr. quiz)**
-r 10/22 | solving log / exponent equations & modelling | desmos: game, set, flat
+m 10/19 | exponential functions | the one where mr. wallace talked about <img src="https://render.githubusercontent.com/render/math?math=e^x">ponents 
+t 10/20 | logarithmic & inverse functions | log concepts & examples
+w 10/21 | properties of logarithms  | log + exponent problems & **petit knowledge celebration 1(tr. quiz)**
+r 10/22 | solving log / exponent equations & modelling | desmos: game, set, flat & desmos: mocha modelling
 f 10/23 | review | review & challenge problems
 
 ###### Week IV
