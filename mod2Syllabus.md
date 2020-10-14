@@ -36,7 +36,7 @@ f 10/16 |review|:tada:&nbsp;***knowledge celebration: week 1 content***
 ###### Week III
 date | class prep | in class
 ---- | --------------------- | ---------
-m 10/19 | exponential functions | mr. wallace talking about<img src="https://render.githubusercontent.com/render/math?math=e^x">ponents 
+m 10/19 | exponential functions | mr. wallace talking about <img src="https://render.githubusercontent.com/render/math?math=e^x">ponents 
 t 10/20 | logarithmic & inverse functions | review 7-8 on p. 8, 9 notes and desmos: polygraph exponential & logarithmic functions
 w 10/21 | properties of logarithms  |desmos: mocha modelling  & **un petit knowledge celebration (tr. quiz)**
 r 10/22 | solving log / exponent equations & modelling | desmos: game, set, flat
