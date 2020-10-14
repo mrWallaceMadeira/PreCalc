@@ -38,7 +38,7 @@ date | class prep | in class
 ---- | --------------------- | ---------
 m 10/19 | exponential functions | mr. wallace talking about <img src="https://render.githubusercontent.com/render/math?math=e^x">ponents 
 t 10/20 | logarithmic & inverse functions | review 7-8 on p. 8, 9 notes and desmos: polygraph exponential & logarithmic functions
-w 10/21 | properties of logarithms  |desmos: mocha modelling  & **un petit knowledge celebration (tr. quiz)**
+w 10/21 | properties of logarithms  |desmos: mocha modelling  & **petit knowledge celebration 1(tr. quiz)**
 r 10/22 | solving log / exponent equations & modelling | desmos: game, set, flat
 f 10/23 | review | review & challenge problems
 
@@ -49,12 +49,12 @@ m 10/26 | review |:tada:&nbsp;***knowledge celebration: logs and exponents***
 t 10/27 | :sleeping: | review knowledge celebration
 w 10/28 | parent functions day I: linear/quadratic/radical | p. 11 # 7, 11, 19, 23, 27, 31, 35, 39, 50, 67, 68, 73, 74 and p. 28 # 89, 90 and p. 48 # 51, 53 and p. 96 # 5-8, 37-39 and 32
 r 10/29 | parent functions day II: piecewise/abs. value | p. 37 #17, 18, 47, 49, 55, 57, 59, 99-104
-f 10/30 | general function properties | p. 38 #23, 24, 26, 34, 38, 40 and  p. 47 #7, 14, 16, 19-23, 26, 73, 75
+f 10/30 | general function properties |  **petit knowledge celebration 2**
 
 ###### Week V
 date | class prep | in class
 ---- | --------------------- | ---------
-m 11/2 |:sleeping:|desmos project
+m 11/2 |:sleeping:|eom review
 w 11/4 |review |eom review
 r 11/5 | eom review |eom review
 f 11/6 | eom review | :tada:&nbsp;***cumulative knowledge celebration***
