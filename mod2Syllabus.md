@@ -39,23 +39,23 @@ date | class prep | in class
 m 10/19 | exponential functions | the one where mr. wallace talked about <img src="https://render.githubusercontent.com/render/math?math=e^x">ponents 
 t 10/20 | logarithmic & inverse functions | log concepts & examples
 w 10/21 | log & exponent problems | log + exponent problems & **petit knowledge celebration 1(tr. quiz)**
-r 10/22 | more [log](https://www.youtube.com/watch?v=-fQGPZTECYs) & exponents & **ensure you have a desmos account** | desmos: mocha modelling
+r 10/22 | more [log](https://www.youtube.com/watch?v=-fQGPZTECYs) & exponents & **ensure you have a desmos account** | desmos: game, set, flat
 f 10/23 | review | review & challenge problems
 
 ###### Week IV
 date | class prep | in class
 ---- | --------------------- | ---------
 m 10/26 | review |:tada:&nbsp;***knowledge celebration: logs and exponents***
-t 10/27 | :sleeping: | review knowledge celebration
-w 10/28 | parent functions day I: linear/quadratic/radical | p. 11 # 7, 11, 19, 23, 27, 31, 35, 39, 50, 67, 68, 73, 74 and p. 28 # 89, 90 and p. 48 # 51, 53 and p. 96 # 5-8, 37-39 and 32
-r 10/29 | parent functions day II: piecewise/abs. value | p. 37 #17, 18, 47, 49, 55, 57, 59, 99-104
-f 10/30 | general function properties |  **petit knowledge celebration 2**
+t 10/27 | what are functions? | function worksheet 1
+w 10/28 | properties of functions | function worksheet 2
+r 10/29 | parent functions | desmos marbleslides
+f 10/30 | review |  **petit knowledge celebration 2**
 
 ###### Week V
 date | class prep | in class
 ---- | --------------------- | ---------
-m 11/2 |:sleeping:|eom review
-w 11/4 |review |eom review
+m 11/2 | how to prove you're right with math | proof worksheet 1
+w 11/4 | eom review |eom review
 r 11/5 | eom review |eom review
 f 11/6 | eom review | :tada:&nbsp;***cumulative knowledge celebration***
 
