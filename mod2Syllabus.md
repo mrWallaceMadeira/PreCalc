@@ -55,6 +55,7 @@ f 10/30 | review |  **petit knowledge celebration 2**
 date | class prep | in class
 ---- | --------------------- | ---------
 m 11/2 | how to prove you're right with math | proof worksheet 1
+t 11/3 | don't watch the news | :tv:
 w 11/4 | eom review |eom review
 r 11/5 | eom review |eom review
 f 11/6 | eom review | :tada:&nbsp;***cumulative knowledge celebration***
