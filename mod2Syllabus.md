@@ -46,10 +46,10 @@ f 10/23 | review | review & challenge problems
 date | class prep | in class
 ---- | --------------------- | ---------
 m 10/26 | review |:tada:&nbsp;***knowledge celebration: logs and exponents***
-t 10/27 | what are functions? | desmos activity
+t 10/27 | what are functions? | defining functions & desmos activity
 w 10/28 | properties of functions | function worksheet 1
-r 10/29 | parent functions | desmos marbleslides
-f 10/30 | what are proofs |  **petit knowledge celebration 2**
+r 10/29 | parent functions | reviewing parent functions & desmos activity
+f 10/30 | what are proofs |  **petit knowledge celebration 2** & &nbsp;:doughnut:
 
 ###### Week V
 date | class prep | in class
