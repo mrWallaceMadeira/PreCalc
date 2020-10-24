@@ -46,16 +46,16 @@ f 10/23 | review | review & challenge problems
 date | class prep | in class
 ---- | --------------------- | ---------
 m 10/26 | review |:tada:&nbsp;***knowledge celebration: logs and exponents***
-t 10/27 | what are functions? | function worksheet 1
-w 10/28 | properties of functions | function worksheet 2
+t 10/27 | what are functions? | desmos activity
+w 10/28 | properties of functions | function worksheet 1
 r 10/29 | parent functions | desmos marbleslides
-f 10/30 | review |  **petit knowledge celebration 2**
+f 10/30 | what are proofs |  **petit knowledge celebration 2**
 
 ###### Week V
 date | class prep | in class
 ---- | --------------------- | ---------
 m 11/2 | how to prove you're right with math | proof worksheet 1
-t 11/3 | create a proof | eom review
+t 11/3 | how to prove you're right with math pt. 2 | proof worksheet 2
 w 11/4 | eom review & don't watch the news | :tv:
 r 11/5 | eom review |eom review
 f 11/6 | eom review | :tada:&nbsp;***cumulative knowledge celebration***
@@ -64,7 +64,7 @@ f 11/6 | eom review | :tada:&nbsp;***cumulative knowledge celebration***
 
 ###### Desmos
  - [x] Link [here](student.desmos.com)
- - [x] Class code: 26r3nm
+ - [x] Class code: 26R3NM
 
 ### Un-fun stuff
 
