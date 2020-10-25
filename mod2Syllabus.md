@@ -47,9 +47,9 @@ date | class prep | in class
 ---- | --------------------- | ---------
 m 10/26 | review |:tada:&nbsp;***knowledge celebration: logs and exponents***
 t 10/27 | what are functions? | defining functions & desmos activity
-w 10/28 | properties of functions | function worksheet 1
-r 10/29 | parent functions | reviewing parent functions & desmos activity
-f 10/30 | what are proofs |  **petit knowledge celebration 2** & &nbsp;:doughnut:
+w 10/28 | identifying & describing functions  | function worksheet 1
+r 10/29 | parent functions | function worksheet 2 
+f 10/30 | what are proofs |  **petit knowledge celebration 2** :doughnut:s
 
 ###### Week V
 date | class prep | in class
