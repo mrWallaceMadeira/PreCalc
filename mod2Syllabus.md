@@ -54,11 +54,11 @@ f 10/30 | no video, review |  **petit knowledge celebration 2** & :doughnut:s
 ###### Week V
 date | class prep | in class
 ---- | --------------------- | ---------
-m 11/2 | how to prove you're right with math | proof worksheet 1
-t 11/3 | how to prove you're right with math pt. 2 | proof worksheet 2
-w 11/4 | eom review & don't watch the news | :tv:
-r 11/5 | eom review |eom review
-f 11/6 | eom review | :tada:&nbsp;***cumulative knowledge celebration***
+m 11/2 | self-directed review | review worksheet 1
+t 11/3 | self-directed review | review worksheet 2
+w 11/4 | don't watch the news | :tv:
+r 11/5 | self-directed review | review worksheet 3
+f 11/6 | self-directed review | :tada:&nbsp;***cumulative knowledge celebration***
 
 ### Resources&nbsp;:hammer:
 
